@@ -27,3 +27,5 @@ Me chamo Luan Gabriel do Nascimento Oliveira, tenho 21 anos e sou de Guarulhos. 
   <a href="https://discord.gg/GqDKUmWSGg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![snake animation] (https://github.com/LuanOliveira27)
