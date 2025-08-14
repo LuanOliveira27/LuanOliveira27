@@ -7,8 +7,8 @@ Me chamo Luan Gabriel do Nascimento Oliveira, tenho 21 anos e sou de Guarulhos. 
 
 <div>
     <a href="https://beacons.ai/LuanOliveira27">
-    <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=LuanOliveira27&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-     <img height="180em"  width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanOliveira27&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=LuanOliveira27&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+     <img height="180em"  width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanOliveira27&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
