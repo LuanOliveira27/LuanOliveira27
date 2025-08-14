@@ -1,6 +1,8 @@
 ##  Luan Oliveira
 
-Desenvolvedor Java
+Me chamo Luan Gabriel do Nascimento Oliveira, tenho 21 anos e sou de Guarulhos. Concluí o ensino médio no Colégio Educar, com o curso técnico em Robótica. Finalizei o curso de Análise e Desenvolvimento de Sistemas na faculdade ENIAC.
+
+<br>
 
 
 <div>
