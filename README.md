@@ -34,4 +34,3 @@ Me chamo Luan Gabriel do Nascimento Oliveira, tenho 21 anos e sou de Guarulhos. 
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-(https://github.com/LuanOliveira27)_
