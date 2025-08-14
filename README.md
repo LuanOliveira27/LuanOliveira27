@@ -28,4 +28,4 @@ Me chamo Luan Gabriel do Nascimento Oliveira, tenho 21 anos e sou de Guarulhos. 
   
 </div>
 
-![snake animation] (https://github.com/LuanOliveira27)
+![snake animation] (LuanOliveira27)
